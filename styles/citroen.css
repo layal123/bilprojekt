@@ -4,3 +4,6 @@ body {
 h1 {
     color: darkgreen;
 }
+video {
+    width: 750px;
+}
